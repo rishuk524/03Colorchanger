@@ -9,7 +9,7 @@
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Project-3** [Live Link]
+# **Project-3** [Live Link](https://jsproject-3.netlify.app/)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learne abour arrow function
